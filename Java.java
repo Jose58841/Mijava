@@ -2,7 +2,7 @@ public class Java{
     public static void main(String[] args) {
 
         String nombre = "José";
-        int a= 5;
+        int a= 10;
         int b= 10;
         int suma= a+b;
 
