@@ -11,7 +11,8 @@ public class Java{
         System.out.println("La suma de " + a + "+" + b + " es: " + suma );
         System.out.println("La mult de " + a + "*" + b + " es: " + mult);
         System.out.println("Hola mi nombre es José carlos silva con numero de carnet 2025-1485U");
-        System.out.println("Hola Jose como estas");
+        System.out.println("Hola profesor cristopher mucho gusto...");
+       
 
 
 
